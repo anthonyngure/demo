@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "strings":[
-    "one":"One",
+    {"one":"One"}
   ],
   "profile": {
     "name": "typicode"
